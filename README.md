@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
 ### I’m currently:
-   ## working on **Be My Reader**
+   ## working on **Be My Reader** and
    ## looking for **Software Engineer, Teaching, and Project Management** roles.
 
 <h3 align="left">Connect with me:</h3>

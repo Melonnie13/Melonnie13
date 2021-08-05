@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Melonnie</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">Software Engineer with a love for animals.</h3>
 
 ### I’m currently:
    ## working on **Be My Reader** and

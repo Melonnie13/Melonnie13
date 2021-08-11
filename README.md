@@ -3,7 +3,7 @@
 
 ### I’m currently:
    ## working on **Be My Reader** and
-   ## looking for **Software Engineer, Teaching, and Project Management** roles.
+   ## looking for **Software Engineer, Teaching, or Project Management** roles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
